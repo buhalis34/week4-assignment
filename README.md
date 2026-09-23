@@ -10,7 +10,8 @@ The chatbot can answer questions about NFL players, teams, games, and statistics
 
 ## BoodleBox Chatbot
 
-[Try the NFL Stats Chatbot here]((https://box.boodle.ai/a/@NFLStatBot))
+[Try the NFL Stats Chatbot here]
+https://box.boodle.ai/a/@NFLStatBot
 
 ## Example Questions
 
